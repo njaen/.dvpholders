@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="838d9f1a-5c3d-4a61-8d7b-9cc8577fcaf9" name="DVPHOLDERS" url="http://holders.dvpublisa.com/dvpfi">
+        <fileTransfer rootFolder="/home/holdersdvpublisa/public_html/dvpfi" accessType="SFTP" host="holders.dvpublisa.com" port="22" sshConfigId="6fe1c133-07cd-4aa4-9bf4-f3121c4f6ff5" sshConfig="holdersdvpublisa@holders.dvpublisa.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
